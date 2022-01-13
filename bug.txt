@@ -1,0 +1,32 @@
+
+// context.lineTo(0,0);
+// context.lineTo(50, 50);
+// context.lineTo(0,50 );
+// context.lineTo(0,0);
+// context.stroke();
+//
+// context.moveTo(0,70);
+// context.lineTo(70,70);
+// context.stroke();
+
+// context.rect(0,0,100,100);
+// context.fillStyle = 'red';
+// context.fill();
+// context.strokeStyle = 'blue';
+// context.stroke();
+
+// context.arc(100,100,50,0,Math.PI * 2,true);
+// context.fillStyle = 'red';
+// context.fill();
+// context.strokeStyle = 'blue';
+// context.stroke();
+// context.beginPath();
+// context.rect(0, 0, 100, 50);
+// context.stroke();
+//
+// context.moveTo(200, 150);
+// context.arc(150, 150, 50, 0, Math.PI * 2);
+// context.stroke();
+//
+// context.arc(300, 300, 60, 0,Math.PI * 2);
+// context.fill();
